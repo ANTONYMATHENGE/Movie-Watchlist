@@ -1,5 +1,5 @@
 # TITLE
-# Password Locker
+# Movie-Watchlist app
 
 # AUTHOR
 ## ANTONY KOGI
